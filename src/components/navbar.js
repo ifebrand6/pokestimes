@@ -16,7 +16,7 @@ return(
 
             </ul>
         </div>
-    </nav>
+    </nav> 
 )
 }
 export default withRouter(Navbar);
